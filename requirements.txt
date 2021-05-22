@@ -1,0 +1,9 @@
+greenlet
+oauthlib
+paho-mqtt
+tzlocal
+redis
+requests
+requests-oauthlib
+whitenoise
+openpyxl
