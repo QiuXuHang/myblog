@@ -11,6 +11,4 @@ Welcome to myblog's documentation!
    :caption: Contents:
 
    how_to_be_a_rich_man
-
-
-
+   我的日记.rst
