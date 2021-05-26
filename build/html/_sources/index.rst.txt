@@ -10,5 +10,6 @@ Welcome to myblog's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   how_to_be_a_rich_man
+   joy.rst
+
    我的日记.rst
